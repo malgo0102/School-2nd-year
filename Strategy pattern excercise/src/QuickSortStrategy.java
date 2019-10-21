@@ -1,24 +1,23 @@
 //Algorithm code from http://www.java2novice.com/java-sorting-algorithms/quick-sort/
 
-public class QuickSortStrategy implements SortingStrategy{
-  private int array[];
+public class QuickSortStrategy extends SortingStrategy{
+  private int[] array;
+  private int length;
 
-  public QuickSortStrategy(int[] array){
+  public QuickSortStrategy(int[] array, int n){
     this.array = array;
+    this.length = n;
   }
 
   @Override
-  public void sort(int[] inputArr) {
-    int length;
+  public void sort(int[] inputArr, int length) {
 
     if (inputArr == null || inputArr.length == 0) {
       return;
     }
-    this.array = inputArr;
-    length = inputArr.length;
     quickSort(0, length - 1);
     for(int k=0; k<length; k++){
-      System.out.print(inputArr[k]);
+      System.out.print(inputArr[k]+" ");
     }
     System.out.println(" sorted with Quick Sort strategy");
   }

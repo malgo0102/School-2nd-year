@@ -1,4 +1,7 @@
-public interface SortingStrategy {
+public abstract class SortingStrategy {
 
-  public void sort(int[]arrayToSort);
+  abstract void sort(int[]arrayToSort, int n);
 }
+// use abstract class!
+//Compositor
+// cannot set properties in the interface

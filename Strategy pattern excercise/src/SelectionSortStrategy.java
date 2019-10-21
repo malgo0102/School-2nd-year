@@ -1,14 +1,16 @@
 // Algorithm code from http://www.java2novice.com/java-sorting-algorithms/selection-sort/
 
-public class SelectionSortStrategy implements SortingStrategy{
+public class SelectionSortStrategy extends SortingStrategy{
   private int[] arr;
+  private int n;
 
-  public SelectionSortStrategy(int[] array){
+  public SelectionSortStrategy(int[] array, int n){
     this.arr = array;
+    this.n = n;
   }
 
   @Override
-  public void sort(int[] arr){
+  public void sort(int[] arr, int n){
 
     for (int i = 0; i < arr.length - 1; i++)
     {
@@ -22,7 +24,7 @@ public class SelectionSortStrategy implements SortingStrategy{
       arr[i] = smallerNumber;
     }
     for(int k=0; k<arr.length; k++){
-      System.out.print(arr[k]);
+      System.out.print(arr[k]+" ");
     }
     System.out.println(" sorted with Selection Sort strategy");
   }
