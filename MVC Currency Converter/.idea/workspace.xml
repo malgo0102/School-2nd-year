@@ -2,45 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f76dce-ded6-4cec-870d-4f170225c824" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controllers/Actionable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controllers/CurrencyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controllers/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy pattern excercise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/MergeSortStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/About.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/AboutController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/AboutView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/Currency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/DropDown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/IndexView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/InputField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/Label.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC Currency Converter/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/Window.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC Currency Converter/WindowController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/About.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/About.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AboutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/AboutController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AboutView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/AboutView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IndexView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/IndexView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InputField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/InputField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Label.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WindowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/WindowController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/src/BubbleSortStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/BubbleSortStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/src/MyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/src/QuickSortStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/QuickSortStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/src/SelectionSortStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/SelectionSortStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/src/SortingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/SortingStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/out/production/Strategy pattern excercise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/out/production/Strategy pattern excercise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/out/production/Strategy pattern excercise/MergeSortStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/out/production/Strategy pattern excercise/MergeSortStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy pattern excercise/src/MergeSortStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy pattern excercise/src/MergeSortStrategy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controllers/WindowController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
+            <state relative-caret-position="1513">
               <caret line="92" column="38" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -158,8 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,6 +141,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,16 +203,18 @@
       <workItem from="1571582614028" duration="394000" />
       <workItem from="1571595911292" duration="4639000" />
       <workItem from="1571642712605" duration="5654000" />
+      <workItem from="1571685428042" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29795000" />
+    <option name="totallyTimeSpent" value="29813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28016195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28502023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -255,7 +224,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,14 +345,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Models/Label.java">
+    <entry file="file://$PROJECT_DIR$/src/Models/InputField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Models/InputField.java">
+    <entry file="file://$PROJECT_DIR$/src/Controllers/WindowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="92" column="38" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controllers/Actionable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Label.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -401,23 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controllers/Actionable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controllers/WindowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" column="38" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

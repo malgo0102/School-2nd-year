@@ -28,14 +28,13 @@ public class MergeSortStrategy extends SortingStrategy {
 
     merge(a, l, r, mid, n - mid);
 
-    for(int k=0; k<arr.length; k++){
-      System.out.print(arr[k]+" ");
+    for(int z=0; z<arr.length; z++){
+      System.out.print(arr[z]+" ");
     }
     System.out.println(" sorted with Merge Sort strategy");
   }
 
-  public static void merge(
-      int[] a, int[] l, int[] r, int left, int right) {
+  public static void merge(int[] a, int[] l, int[] r, int left, int right) {
 
     int i = 0, j = 0, k = 0;
     while (i < left && j < right) {
