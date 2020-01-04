@@ -1,14 +1,14 @@
 package Models;
 
-public class Button {
-  private String name;
-  private String function;
+import Controllers.Actionable;
 
-  //constructor
-//  public Models.Button(String name, String function) {
-//    this.name = name;
-//    this.function = function;
-//  }
+public class Button implements Actionable {
+  private String name;
+
+//  constructor
+  public Models.Button(String name) {
+    this.name = name;
+  }
   // Getters and setters
   public String getName() {
     return name;
@@ -18,17 +18,10 @@ public class Button {
     this.name = name;
   }
 
-  public String getFunction() {
-    return function;
-  }
-
-  public void setFunction(String function) {
-    this.function = function;
-  }
-
-  public void click()
+  @Override
+  public void click(String name, String action)
   {
-    System.out.println("Click: " + name + "executing " + function);
+    System.out.println("Click: " + name + "executing " + action);
   }
 
 

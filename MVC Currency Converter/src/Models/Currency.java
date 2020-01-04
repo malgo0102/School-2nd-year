@@ -1,35 +1,35 @@
 package Models;
 
-public class Currency {
-  private double amount;
-  //private double rate;
-  private String currencyType;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
-  public Currency (double a, double r, String ct){
-    this.amount=a;
-//    this.rate=r;
-    this.currencyType=ct;
+public class CurrencyConverter {
+  private Map<String, Double> exchangeRates;
+
+  public CurrencyConverter (Map<String, Double> eR){
+    this.exchangeRates=eR;
+  }
+
+  public CurrencyConverter() {
+    exchangeRates = new LinkedHashMap<>();
+    exchangeRates.put("DKK", 1.0);
+    exchangeRates.put("PLN", 0.57);
+    exchangeRates.put("XAG", 0.0087);
+  }
+
+  public Map<String, Double> getExchangeRates() {
+    return exchangeRates;
+  }
+
+  public void setExchangeRates(Map<String, Double> exchangeRates) {
+    this.exchangeRates = exchangeRates;
+  }
+
+  public double getRate(String currency) {
+    double val = (double)exchangeRates.get(currency);
+    return val;
   }
 
 
-  public double getAmount(){
-    return amount;
-  }
-  public void setAmount(double a){
-    this.amount = a;
-  }
 
-//  public double getRate(){
-//    return rate;
-//  }
-//  public void setRate(double r){
-//    this.rate = r;
-//  }
-
-  public String getCurrencyType(){
-    return currencyType;
-  }
-  public void setCurrencyType(String ct){
-    this.currencyType = ct;
-  }
 }

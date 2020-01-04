@@ -16,6 +16,7 @@ public class Server {
       ServerSocket servSocket = new ServerSocket(1025);
 
         Socket socket = servSocket.accept();
+
         //sending to client
         PrintWriter writer = new PrintWriter(socket.getOutputStream(),true);
         //receiving from client

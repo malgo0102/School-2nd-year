@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a90fd0f-fb44-4083-a853-c396b876200f" name="Default Changelist" comment="" />
+    <list default="true" id="4a90fd0f-fb44-4083-a853-c396b876200f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Elevators-R-Us/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elevators-R-Us/Config/ConfigFile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elevators-R-Us/src/ButtonPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elevators-R-Us/src/ElevatorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elevators-R-Us/src/ElevatorDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elevators-R-Us/src/ElevatorMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elevators-R-Us/src/Shaft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC Currency Converter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC Currency Converter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC Currency Converter/src/Controllers/Actionable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC Currency Converter/src/Controllers/Actionable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC Currency Converter/src/Models/About.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC Currency Converter/src/Models/About.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC Currency Converter/src/Models/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC Currency Converter/src/Models/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC Currency Converter/src/Models/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC Currency Converter/src/Models/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCPServerClient/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCPServerClient/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCPServerClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCPServerClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCPServerClient/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCPServerClient/src/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +28,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="461">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -46,6 +63,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -57,17 +77,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
+    <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,30 +103,20 @@
             <path>
               <item name="Threads1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Threads1" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Threads1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Threads1" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Threads1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Threads1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Threads1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringGuruAppUdemy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -156,16 +166,21 @@
       <workItem from="1569170339174" duration="739000" />
       <workItem from="1569220247454" duration="1689000" />
       <workItem from="1569337443037" duration="620000" />
+      <workItem from="1576595700476" duration="741000" />
+      <workItem from="1576831267527" duration="256000" />
+      <workItem from="1577628659278" duration="76000" />
+      <workItem from="1577630652231" duration="12000" />
+      <workItem from="1577631851762" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7853000" />
+    <option name="totallyTimeSpent" value="9000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28582996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -203,8 +218,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="461">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
